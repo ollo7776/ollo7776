@@ -3,7 +3,7 @@ Erfinderisch, energisch, engagiert, fasziniert vom Programmieren, Programmierung
 Ich bin letzte Jahren von der Programmentwicklung fasziniert. Im Allgemeinen lerne ich selbständig (Tutorial, Videokurse, Online Übungen) aber auch professionelle Kurse z.B. CCNA Network Administrator CISCO und das wichtigste und Außerdem konsultiere ich regelmäßig einen professionellen Online-IT-Spezialisten. Wir diskutieren Themen und Projekte und ich erhalte eine Einführung in neuen Bereichen des Programmierwissens. Z.B. JAVA (Spring, Maven Boot2, Junit5Test, JavaTomcatEmbeded, SQLite Database, SQL commands). 
 <br/><br/>
 Was das Frontend betrifft, lerne ich im Allgemeinen selbst (JavaScript, React Hooks, Jquery, Html, CSS, FramerMotion, Bootstrap, AWS Amazon, GoogleCloud, Apache2, dyndns.sh, DomainAWS Route53 configuration, Ionos Server Configuration auf Ubuntu 20.04 mit free SSL LetsEncrypt oder auch auf eigene Server (Zuhause) auch  Ubuntu 20.04. Die Programme, die ich benutze: IntellijIdea, VisualStudioCode, NotePad++, SQLiteStudio, AdvenstRestClient. Oder InkScape, Gimp - Vektor oder raster -Grafiken.  
-<br/><br/>
+<br/>
 Für JAVA-Übungen verwende ich die www.codewars.com, Rank: 4kyu. (Über 100 JAVA-Programmieraufgaben) und auch LeetCode, sowie andere z. B. Exercism.org
 <br/><br/>
 Meine Projekte: 
