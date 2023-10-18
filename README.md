@@ -1,7 +1,7 @@
-Ich schreibe Anwendungen in AndroidStudio, habe aber auch Erfahrung in Java, HTML, CSS, JS, FrameWorks React, JQuery, Vue. Wenn Du eine coole Idee für eine Android-App hast, teilen sie bitte mit. Wenn mich die Idee interessiert, setze ich ein solches Projekt gerne um.
+I write applications in AndroidStudio, but also have experience in Java, HTML, CSS, JS, FrameWorks React, JQuery, Vue. If you have a cool idea for an Android app, please share it. If the idea interests me, I would be happy to implement such a project. I also love creating graphics using raster, vector and SVG path technologies.
 <br/><br/>
-Im Oktober 2021 habe ich ein JAVA Zertifikat erhalten: ORACLE Certified Foundations Associate 1Z0-811.
-2023 Business Application Developer - National Louis University in Nowym Sączu
+In October 2021 I received a JAVA certificate: ORACLE Certified Foundations Associate 1Z0-811.
+Study: 2023 Business Application Developer - National Louis University in Nowym Sączu
 <br/><br/>
-Meine Projekte: 
+My projects: 
 https://ollo.link/projects
